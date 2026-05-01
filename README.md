@@ -16,4 +16,4 @@
 
 Abaixo está o diagrama de classes representando a estrutura da implementação. O grande destaque é o leque de estratégias concretas apontando para a interface `CalculoFrete`, e as dependências isoladas, ilustrando perfeitamente a delegação da responsabilidade e o encapsulamento dos algoritmos, característicos do padrão Strategy.
 
-<img width="932" height="553" alt="Diagrama (strategy)" src="COLE_O_LINK_DA_SUA_IMAGEM_AQUI" />
+<img width="1523" height="675" alt="Diagrama (Strategy)" src="https://github.com/user-attachments/assets/631fbd36-378d-4d67-82a3-efa27b185136" />
